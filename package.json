@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-ip-australia",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ip-australia -- Australian patent, trade mark and design search, plus patent legal status, from IP Australia (the Australian Government's IP office).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "ip-australia",
     "gatewaySlug": "ip-australia",
-    "sourceHash": "v1-d72181994bc23c78280cf6e65061583802d2343db287aa7483e8bbabc5a341b9",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-e843c063f80d58f98507a4b4bf619a0bef6a8068659a10736fc8574c2655ad3c",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
